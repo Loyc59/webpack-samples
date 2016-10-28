@@ -1,0 +1,1 @@
+module.exports = angular.module('myApp', ['ui.router', 'oc.lazyLoad', require('./module1/module').name]);
